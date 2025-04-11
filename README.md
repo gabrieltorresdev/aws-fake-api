@@ -33,7 +33,7 @@ Para acessar o projeto rodando, utilize os endereços abaixo:
 - **GET /emprestimos-usuarios**: Retorna todos os empréstimos com informações de livros e usuários
 
 ## Diagrama do Banco de Dados
-![Diagrama do Banco de Dados](https://dbdiagram.io/e/67f988464f7afba1844ce37a/67f9886a4f7afba1844ce5f7)
+![Diagrama do Banco de Dados](https://dbdiagram.io/embed/67f9886a4f7afba1844ce5f7)
 
 ## Estrutura de Dados
 
