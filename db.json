@@ -1,0 +1,362 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "O Grande Gatsby",
+      "ano": 1925,
+      "genero": "Clássico",
+      "paginas": 180,
+      "autorId": 1,
+      "editoraId": 3
+    },
+    {
+      "id": 2,
+      "titulo": "O Sol é para Todos",
+      "ano": 1960,
+      "genero": "Ficção",
+      "paginas": 281,
+      "autorId": 2,
+      "editoraId": 1
+    },
+    {
+      "id": 3,
+      "titulo": "1984",
+      "ano": 1949,
+      "genero": "Distopia",
+      "paginas": 328,
+      "autorId": 3,
+      "editoraId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "O Hobbit",
+      "ano": 1937,
+      "genero": "Fantasia",
+      "paginas": 310,
+      "autorId": 4,
+      "editoraId": 4
+    },
+    {
+      "id": 5,
+      "titulo": "Orgulho e Preconceito",
+      "ano": 1813,
+      "genero": "Romance",
+      "paginas": 432,
+      "autorId": 5,
+      "editoraId": 5
+    },
+    {
+      "id": 6,
+      "titulo": "O Apanhador no Campo de Centeio",
+      "ano": 1951,
+      "genero": "Amadurecimento",
+      "paginas": 277,
+      "autorId": 6,
+      "editoraId": 1
+    },
+    {
+      "id": 7,
+      "titulo": "A Revolução dos Bichos",
+      "ano": 1945,
+      "genero": "Sátira Política",
+      "paginas": 112,
+      "autorId": 3,
+      "editoraId": 2
+    },
+    {
+      "id": 8,
+      "titulo": "O Senhor dos Anéis",
+      "ano": 1954,
+      "genero": "Fantasia",
+      "paginas": 1178,
+      "autorId": 4,
+      "editoraId": 4
+    },
+    {
+      "id": 9,
+      "titulo": "Admirável Mundo Novo",
+      "ano": 1932,
+      "genero": "Distopia",
+      "paginas": 311,
+      "autorId": 7,
+      "editoraId": 3
+    },
+    {
+      "id": 10,
+      "titulo": "O Iluminado",
+      "ano": 1977,
+      "genero": "Terror",
+      "paginas": 447,
+      "autorId": 8,
+      "editoraId": 5
+    }
+  ],
+  "autores": [
+    {
+      "id": 1,
+      "nome": "F. Scott Fitzgerald",
+      "anoNascimento": 1896,
+      "nacionalidade": "Americano"
+    },
+    {
+      "id": 2,
+      "nome": "Harper Lee",
+      "anoNascimento": 1926,
+      "nacionalidade": "Americano"
+    },
+    {
+      "id": 3,
+      "nome": "George Orwell",
+      "anoNascimento": 1903,
+      "nacionalidade": "Britânico"
+    },
+    {
+      "id": 4,
+      "nome": "J.R.R. Tolkien",
+      "anoNascimento": 1892,
+      "nacionalidade": "Britânico"
+    },
+    {
+      "id": 5,
+      "nome": "Jane Austen",
+      "anoNascimento": 1775,
+      "nacionalidade": "Britânico"
+    },
+    {
+      "id": 6,
+      "nome": "J.D. Salinger",
+      "anoNascimento": 1919,
+      "nacionalidade": "Americano"
+    },
+    {
+      "id": 7,
+      "nome": "Aldous Huxley",
+      "anoNascimento": 1894,
+      "nacionalidade": "Britânico"
+    },
+    {
+      "id": 8,
+      "nome": "Stephen King",
+      "anoNascimento": 1947,
+      "nacionalidade": "Americano"
+    },
+    {
+      "id": 9,
+      "nome": "Gabriel García Márquez",
+      "anoNascimento": 1927,
+      "nacionalidade": "Colombiano"
+    },
+    {
+      "id": 10,
+      "nome": "Virginia Woolf",
+      "anoNascimento": 1882,
+      "nacionalidade": "Britânico"
+    }
+  ],
+  "editoras": [
+    {
+      "id": 1,
+      "nome": "Penguin Books",
+      "anoFundacao": 1935,
+      "pais": "Reino Unido"
+    },
+    {
+      "id": 2,
+      "nome": "HarperCollins",
+      "anoFundacao": 1989,
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 3,
+      "nome": "Simon & Schuster",
+      "anoFundacao": 1924,
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 4,
+      "nome": "Companhia das Letras",
+      "anoFundacao": 1986,
+      "pais": "Brasil"
+    },
+    {
+      "id": 5,
+      "nome": "Editora Intrínseca",
+      "anoFundacao": 2003,
+      "pais": "Brasil"
+    },
+    {
+      "id": 6,
+      "nome": "Editora Record",
+      "anoFundacao": 1942,
+      "pais": "Brasil"
+    },
+    {
+      "id": 7,
+      "nome": "Grupo Editorial Nacional",
+      "anoFundacao": 1918,
+      "pais": "Brasil"
+    },
+    {
+      "id": 8,
+      "nome": "Editora Rocco",
+      "anoFundacao": 1975,
+      "pais": "Brasil"
+    },
+    {
+      "id": 9,
+      "nome": "Editora Globo",
+      "anoFundacao": 1883,
+      "pais": "Brasil"
+    },
+    {
+      "id": 10,
+      "nome": "Editora Aleph",
+      "anoFundacao": 1984,
+      "pais": "Brasil"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "email": "joao.silva@exemplo.com",
+      "tipoAssinatura": "Premium"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@exemplo.com",
+      "tipoAssinatura": "Básico"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Santos",
+      "email": "carlos.santos@exemplo.com",
+      "tipoAssinatura": "Premium"
+    },
+    {
+      "id": 4,
+      "nome": "Ana Costa",
+      "email": "ana.costa@exemplo.com",
+      "tipoAssinatura": "Básico"
+    },
+    {
+      "id": 5,
+      "nome": "Pedro Souza",
+      "email": "pedro.souza@exemplo.com",
+      "tipoAssinatura": "Premium"
+    },
+    {
+      "id": 6,
+      "nome": "Mariana Ferreira",
+      "email": "mariana.ferreira@exemplo.com",
+      "tipoAssinatura": "Básico"
+    },
+    {
+      "id": 7,
+      "nome": "Lucas Rodrigues",
+      "email": "lucas.rodrigues@exemplo.com",
+      "tipoAssinatura": "Premium"
+    },
+    {
+      "id": 8,
+      "nome": "Juliana Almeida",
+      "email": "juliana.almeida@exemplo.com",
+      "tipoAssinatura": "Básico"
+    },
+    {
+      "id": 9,
+      "nome": "Rafael Pereira",
+      "email": "rafael.pereira@exemplo.com",
+      "tipoAssinatura": "Premium"
+    },
+    {
+      "id": 10,
+      "nome": "Fernanda Lima",
+      "email": "fernanda.lima@exemplo.com",
+      "tipoAssinatura": "Básico"
+    }
+  ],
+  "emprestimos": [
+    {
+      "id": 1,
+      "livroId": 3,
+      "usuarioId": 1,
+      "dataEmprestimo": "2023-10-10",
+      "dataDevolucao": "2023-10-24",
+      "status": "Devolvido"
+    },
+    {
+      "id": 2,
+      "livroId": 1,
+      "usuarioId": 2,
+      "dataEmprestimo": "2023-10-15",
+      "dataDevolucao": "2023-10-29",
+      "status": "Ativo"
+    },
+    {
+      "id": 3,
+      "livroId": 5,
+      "usuarioId": 3,
+      "dataEmprestimo": "2023-10-05",
+      "dataDevolucao": "2023-10-19",
+      "status": "Devolvido"
+    },
+    {
+      "id": 4,
+      "livroId": 2,
+      "usuarioId": 4,
+      "dataEmprestimo": "2023-10-12",
+      "dataDevolucao": "2023-10-26",
+      "status": "Ativo"
+    },
+    {
+      "id": 5,
+      "livroId": 7,
+      "usuarioId": 5,
+      "dataEmprestimo": "2023-10-07",
+      "dataDevolucao": "2023-10-21",
+      "status": "Devolvido"
+    },
+    {
+      "id": 6,
+      "livroId": 10,
+      "usuarioId": 6,
+      "dataEmprestimo": "2023-10-18",
+      "dataDevolucao": "2023-11-01",
+      "status": "Ativo"
+    },
+    {
+      "id": 7,
+      "livroId": 4,
+      "usuarioId": 7,
+      "dataEmprestimo": "2023-10-02",
+      "dataDevolucao": "2023-10-16",
+      "status": "Devolvido"
+    },
+    {
+      "id": 8,
+      "livroId": 8,
+      "usuarioId": 8,
+      "dataEmprestimo": "2023-10-20",
+      "dataDevolucao": "2023-11-03",
+      "status": "Ativo"
+    },
+    {
+      "id": 9,
+      "livroId": 6,
+      "usuarioId": 9,
+      "dataEmprestimo": "2023-10-08",
+      "dataDevolucao": "2023-10-22",
+      "status": "Devolvido"
+    },
+    {
+      "id": 10,
+      "livroId": 9,
+      "usuarioId": 10,
+      "dataEmprestimo": "2023-10-14",
+      "dataDevolucao": "2023-10-28",
+      "status": "Ativo"
+    }
+  ]
+}
